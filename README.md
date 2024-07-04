@@ -7,3 +7,6 @@ First on the list is a closed-door crisis meeting tonight at the White House wit
 
 
 I thought I created another line...
+Actually, added record was not reflected...
+Year, the new line was gone.
+
